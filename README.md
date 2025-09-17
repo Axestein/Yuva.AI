@@ -2,15 +2,19 @@
 
 Yuva is an innovative mobile application designed to identify and nurture athletic talent across India, especially in rural and remote areas. Powered by on-device AI, Yuva enables standardized athletic testing without the need for specialized equipment or expert scouts.
 
-## 📱 App Demo Video
+## App Demo Video
 
+### User/Athelete
 https://github.com/user-attachments/assets/af732014-f02e-4bdd-8c28-4cbd43d546e7
 
-## 🚀 Problem Statement
+### Coach
+https://github.com/user-attachments/assets/164c1a0f-3f4b-4419-8c6e-fe7fcd5a67c6
+
+## Problem Statement
 
 Identifying athletic talent in a vast country like India is a monumental challenge. Aspiring athletes in rural and remote areas lack access to standardized testing facilities and expert scouts. This leads to a massive loss of potential talent that could otherwise excel in various sports disciplines.
 
-## ✨ Key Features
+## Key Features
 
 - **📱 On-Device AI** – Analyzes performance videos offline directly on the user's phone
 - **🏃 Test Battery** – Guides users through SAI's standard tests (vertical jump, sprint, sit-ups, etc.)
@@ -20,7 +24,7 @@ Identifying athletic talent in a vast country like India is a monumental challen
 - **🔒 Secure Submission** – Encrypted upload to SAI servers when connectivity is available
 - **🌐 Multi-Language Support** – Accessibility in various Indian languages
 
-## 🧪 Standard Test Battery
+## Standard Test Battery
 
 Yuva implements the Sports Authority of India (SAI) standard tests:
 

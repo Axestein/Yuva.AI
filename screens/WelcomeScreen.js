@@ -42,14 +42,22 @@ export default function WelcomeScreen({ navigation }) {
             </View>
           </View>
           
-          {/* Call to Action Button */}
+          {/* Call to Action Buttons */}
           <View style={styles.buttonContainer}>
             <TouchableOpacity 
-              style={styles.button}
+              style={[styles.button, styles.athleteButton]}
               onPress={() => navigation.navigate('Onboarding')}
               activeOpacity={0.8}
             >
-              <Text style={styles.buttonText}>Get Started</Text>
+              <Text style={styles.buttonText}>Get Started as Athlete</Text>
+            </TouchableOpacity>
+            
+            <TouchableOpacity 
+              style={[styles.button, styles.coachButton]}
+              onPress={() => navigation.navigate('Login', { userType: 'coach' })}
+              activeOpacity={0.8}
+            >
+              <Text style={styles.buttonText}>Get Started as Coach</Text>
             </TouchableOpacity>
           </View>
           
@@ -138,7 +146,6 @@ const styles = StyleSheet.create({
     marginBottom: 20,
   },
   button: {
-    backgroundColor: '#FF9800',
     padding: 18,
     borderRadius: 30,
     alignItems: 'center',
@@ -151,6 +158,13 @@ const styles = StyleSheet.create({
     shadowOpacity: 0.25,
     shadowRadius: 3.84,
     elevation: 5,
+    marginBottom: 15,
+  },
+  athleteButton: {
+    backgroundColor: '#FF9800',
+  },
+  coachButton: {
+    backgroundColor: '#0066CC',
   },
   buttonText: {
     color: '#fff',

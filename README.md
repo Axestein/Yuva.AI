@@ -48,6 +48,8 @@ Yuva implements the Sports Authority of India (SAI) standard tests:
 
 ## 🛠️ Technical Approach
 
+<img width="457" height="420" alt="Screenshot 2025-09-27 100012" src="https://github.com/user-attachments/assets/7c40c971-ca38-4fec-a8a0-663cce6a7e53" />
+
 ### Technologies Used:
 
 - **Frontend**: React Native with Expo for cross-platform compatibility

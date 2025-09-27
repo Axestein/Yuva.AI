@@ -49,6 +49,8 @@ Yuva implements the Sports Authority of India (SAI) standard tests:
 ## 🛠️ Technical Approach
 
 <img width="457" height="420" alt="Screenshot 2025-09-27 100012" src="https://github.com/user-attachments/assets/7c40c971-ca38-4fec-a8a0-663cce6a7e53" />
+<img width="512" height="420" alt="Screenshot 2025-09-27 100025" src="https://github.com/user-attachments/assets/75c964b4-859f-409e-83d7-93099ea26813" />
+<img width="868" height="350" alt="Screenshot 2025-09-27 100048" src="https://github.com/user-attachments/assets/cab110c8-8dd8-4474-85a9-6f7e0b957203" />
 
 ### Technologies Used:
 
